@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307401013152",
+    "project_id": "reto3dart",
+    "storage_bucket": "reto3dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307401013152:android:b3af802ab51094212f96c5",
+        "android_client_info": {
+          "package_name": "com.example.f_chat_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307401013152-71ga7r7s9q7g4dl30hjab8d7k2vhcd11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7Vp1bKm11fIq9dMUL1QHAvUI9j8pwQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307401013152-71ga7r7s9q7g4dl30hjab8d7k2vhcd11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
